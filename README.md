@@ -1,8 +1,22 @@
-# sql-data-analytics-project
+# SQL Data Analytics Project
 
 A comprehensive collection of SQL scripts for data exploration, analytics, and reporting. These scripts cover various analyses such as database exploration, measures and metrics, time-based trends, cumulative analytics, segmentation, and more.
 
 This repository contains SQL queries designed to help data analysts and BI professionals quickly explore, segment, and analyze data within a relational database. Each script focuses on a specific analytical theme and demonstrates best practices for SQL queries.
+
+---
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center" style="border-top: 1px solid #d0d7de; padding-top: 15px;">
+  <a href="https://linkedin.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:umesh.benade4@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="40" height="40">
+  </a>
+</p>
 
 ---
 
